@@ -2,4 +2,4 @@
 
 test123
 
-[test.html](link test)
+[test](link test)
