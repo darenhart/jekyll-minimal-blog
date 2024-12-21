@@ -1,0 +1,5 @@
+title: "My Poetry Collection"
+description: "A collection of my poems"
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://<your-username>.github.io"
+markdown: kramdown
