@@ -1,5 +1,9 @@
-# markdown-site
+# Jekyll Minimal Blog
 
-test123
+## Install
+https://jekyllrb.com/docs/installation/
 
-[test](link test)
+## Run
+```bash
+bundle exec jekyll serve
+```
